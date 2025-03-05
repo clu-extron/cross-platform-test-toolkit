@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "update": "^0.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9"
+  },
+  "name": "cross-platform-test-toolkit",
+  "description": "This repo contains scripts I wrote to improve test efficiency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/compareDlls.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clu-extron/cross-platform-test-toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clu-extron/cross-platform-test-toolkit/issues"
+  },
+  "homepage": "https://github.com/clu-extron/cross-platform-test-toolkit#readme"
+}
